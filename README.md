@@ -1,22 +1,21 @@
-# Welcome!
+## Welcome!
 
-Welcome to the course Quantitative Methods at the University of Mannheim. In this course we will use the open-source software $\texttt{R}$ and RStudio. Before we get started with the lecture on Wednesday, we would like you to install both $\texttt{R}$ and RStudio on your computer. In this document we provide you detailed instructions to install these programs. 
+Welcome to the course Quantitative Methods at the University of Mannheim. In this course we will use the open-source software `R` and RStudio. Before we get started with the lecture on Wednesday, we would like you to install both `R` and RStudio on your computer. In this document we provide you detailed instructions to install these programs. 
 
 To facilitate a convenient workflow, we will integrate the course in GitHub. By now, you should have already received an invitation mail.
 
-## What is R?
+## What is `R`?
 
-R is a programming language designed to help you perform statistical analysis, create graphics, and later on write your own statistical software. R is becoming increasingly popular and knowledge of R will help you in the job market. R is probably the most versatile statistical tool out there (and its free and open source so you can literally use it anywhere).
+`R` is a programming language designed to help you perform statistical analysis, create graphics, and later on write your own statistical software. `R` is becoming increasingly popular and knowledge of `R` will help you in the job market. `R` is probably the most versatile statistical tool out there (and its free and open source so you can literally use it anywhere).
 
 ## What is RStudio?
 
-RStudio is very good graphical user interface for R and will be the program which we will use during the lab sessions. In recent years a growing number of features have been added to this graphical user interface, which makes it the preferred choice for learning R especially among beginners.
+RStudio is very good graphical user interface for `R` and will be the program which we will use during the lab sessions. In recent years a growing number of features have been added to this graphical user interface, which makes it the preferred choice for learning `R` especially among beginners.
 
-## What is GitHub?
+## What are git and GitHub?
 
 What is Github?
 
-\pagebreak
 
 # Installing R and RStudio
 
