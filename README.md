@@ -62,4 +62,4 @@ RStudio is very good graphical user interface for `R` and will be the program wh
 3. Open a Terminal window.
 4. Type `git` and press Enter.
 5. If you get an overview of the usage of `git` and several `git` commands, everything worked fine and you are all set for Week 01. 
-6. If you don't see what is described under 5. please email us ([Marcel](mailto:mneunhoe@mail.uni-mannheim.de) or [Oliver](mailto:orittman@uni-mannheim.de) as soon as possible!
+6. If you don't see what is described under 5. please email us ([Marcel](mailto:mneunhoe@mail.uni-mannheim.de) or [Oliver](mailto:orittman@uni-mannheim.de)) as soon as possible!
