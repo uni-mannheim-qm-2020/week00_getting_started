@@ -2,7 +2,7 @@
 
 Welcome to the course Quantitative Methods at the University of Mannheim. In this course we will use the open-source software `R` and RStudio. Before we get started with the lecture on Wednesday, we would like you to install both `R` and RStudio on your computer. In this document we provide you detailed instructions to install these programs. 
 
-To facilitate a convenient workflow, we will integrate the course in GitHub. By now, you should have already received an invitation mail.
+To facilitate an efficient workflow, we will integrate Github into the course. By now, you should have already received an invitation mail.
 
 ## What is `R`?
 
