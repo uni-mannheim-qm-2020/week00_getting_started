@@ -14,7 +14,7 @@ RStudio is very good graphical user interface for `R` and will be the program wh
 
 ## What are git and GitHub?
 
-`git` is a version control system that makes it easy to track changes and work on code collaboratively. GitHub is a hosting service for `git`. You can think of it like a public Dropbox for code. As a student, you even get unlimited private repositories which you can use if you don’t feel like sharing your code with the rest of the world (yet).
+`git` is a version control system that makes it easy to track changes and work on code collaboratively. GitHub is a hosting service for `git`. You can think of it like a public Dropbox for code. As a student, you even get unlimited private repositories which you can use if you don’t feel like sharing your code with the rest of the world (yet). We will use it to distribute code and assignments to you. And you will use it to keep track of your code and collaborate in teams. 
 
 
 ## Installing R and RStudio
