@@ -53,7 +53,7 @@ RStudio is very good graphical user interface for `R` and will be the program wh
     
 ## Getting a GitHub account
 
-1. Follow the instructions in the email we send you.
+1. Follow the instructions in the email we sent you.
 
 ## Installing `git` on your computer
 
