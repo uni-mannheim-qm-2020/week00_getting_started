@@ -59,7 +59,8 @@ RStudio is very good graphical user interface for `R` and will be the program wh
 
 1. Go to [https://git-scm.com/downloads](https://git-scm.com/downloads) and click on your operating system.
 2. Follow the instructions and install git. 
-3. Open a Terminal window.
-4. Type `git` and press Enter.
-5. If you get an overview of the usage of `git` and several `git` commands, everything worked fine and you are all set for Week 01. 
-6. If you don't see what is described under 5. please email us ([Marcel](mailto:mneunhoe@mail.uni-mannheim.de) or [Oliver](mailto:orittman@uni-mannheim.de)) as soon as possible!
+3. Open RStudio.
+4. In the lower left pane click on `Terminal`.
+5. Type `git` and hit Enter.
+6. If you get an overview of the usage of `git` and several `git` commands, everything worked fine and you are all set for Week 01. 
+7. If you don't see what is described under 6. please email us ([Marcel](mailto:mneunhoe@mail.uni-mannheim.de) or [Oliver](mailto:orittman@uni-mannheim.de)) as soon as possible!
