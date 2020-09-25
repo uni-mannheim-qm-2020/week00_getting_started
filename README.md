@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome to Quantitative Methods 2020!
 
 Welcome to the course Quantitative Methods at the University of Mannheim. In this course we will use the open-source software `R` and RStudio. Before we get started with the lecture on Wednesday, we would like you to install both `R` and RStudio on your computer. In this document we provide you with detailed instructions to install these programs. If you have any problems getting `R` and RStudio running, do not hesitate to drop us an email ([Marcel](mailto:mneunhoe@mail.uni-mannheim.de) or [Oliver](mailto:orittman@uni-mannheim.de)).
 
